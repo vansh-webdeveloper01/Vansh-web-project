@@ -4,8 +4,7 @@ This is a responsive **Resume Website** built using **HTML and CSS**.
 It is created for internship / company assignment submission.
 
 ## Live Demo
-https://github.com/vansh-webdeveloper01/axcentra-internship-project
-
+https://github.com/vansh-webdeveloper01/Vansh-internship-project
 ## Technologies Used
 - HTML5
 - CSS3
@@ -23,4 +22,4 @@ https://github.com/vansh-webdeveloper01/axcentra-internship-project
 Aspiring Web Developer with basic knowledge of HTML, CSS and JavaScript.
 
 ## Contact
-GitHub:https://github.com/vansh-webdeveloper01/axcentra-internship-project
+Github:https://github.com/vansh-webdeveloper01/Vansh-internship-project
